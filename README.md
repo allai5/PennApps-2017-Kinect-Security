@@ -1,1 +1,1 @@
-# PennApps-2017---Kinect-ed--Security
+# PennApps-2017-Kinect Security
